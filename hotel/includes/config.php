@@ -22,7 +22,7 @@ Class DB
         return $this->conn;
     }
 }
-$GLOBALS['url'] = "http://localhost/hotelReservationSystem/hotel/";
+$GLOBALS['url'] = "http://localhost/hotelReservationSystem/hotel/"; /* depends */
 
 session_start();
 ob_start();
