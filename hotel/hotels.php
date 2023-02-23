@@ -249,7 +249,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST["form"] == "search") {
          </a><ul>
          </ul>
          </div>
-         <div class="footer_con">&#169; Hana Fakhouri 2018</div>
+         <div class="footer_con">&#169; Hana Fakhouri <?php echo date('Y'); ?></div>
          </div>
          <div class="col-md-3">
          <div class="tb_social">

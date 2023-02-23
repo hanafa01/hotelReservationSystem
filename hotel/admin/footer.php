@@ -7,7 +7,7 @@
     <div class="pull-right hidden-xs">
         <b>Version</b> 1.0
     </div>
-    <strong>&#169; Hana Fakhouri 2018</strong>
+    <strong>&#169; Hana Fakhouri <?php echo date('Y'); ?></strong>
 </footer>
 
 </div>
